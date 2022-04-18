@@ -20,8 +20,8 @@ html5
       </ul>
       <li><a href="#">Recursos Multimedios</a></li>
       <ul>
-        <li>Recurso #1</li>
-        <li>Recurso #2</li>
+        <li>Recurso 1</li>
+        <li>Recurso 2</li>
 
       </ul>
       <li><a href="#">Aprendizaje</a></li>
@@ -85,7 +85,7 @@ html5
                             <h3> programa,fecha de 2022 </h3>
                             <a href="fase2/design.html">fase2</a><br>
                             <a href="fase3/indexhtml">fase3</a>
-                            
+
                             
                             
                             

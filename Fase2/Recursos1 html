@@ -16,24 +16,28 @@
 
          </header>
          </nav>
-
-      
-             
-             </style>
-              </head>
-              <body>
-                  <header>
-                      <h1 style="background-color: aqua; color: blueviolet;"> Mi sitio web</h1>
-                      <nav>
-                        
-                </nav>
-              </ul>
+        </ul class="menu">
+  </li<a href="index.htlm">Inicio<a></li>
+    <li>Temas
+      </ul>
+      <li><a href="tema1.htlm">tema1 </a></li>
+      <li>tema 2</li>
+      <ul>
+      </style>
+    </head>
+    <body>
+        <header>
+            <h1 style="background-color: aqua; color: blueviolet;"> Mi sitio web</h1>
+            <nav>
+               </ul>
               <li><a href="#">Aprendizaje</a></li>
                 <ul>
                   <li>Actividad #1</li>
                   <li>Actividad #2</li>
                 </ul>
                 </li>
+                <li>Recursos
+                    <ul>
                 <li>Recurso1</li>
                 <li>Recurso2
                 </ul>
