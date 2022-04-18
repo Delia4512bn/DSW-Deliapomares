@@ -1,0 +1,29 @@
+!DOCTYPE html>
+<html lang="es">
+    <heade>
+        <meta charset="UTF-8" >
+        <meta http-equiv="x-UA-compatible" content="IE=edge">  
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+         <title>Documento</title>
+         <link real="stylesheet" href="estilo,ccs">
+         <style>
+             footer{
+                 background-color: aliceblue;
+                 color:beige;
+
+             }
+             </style>
+            
+    </head>
+    <body>
+        <header>
+            <h1 style="background-color: aqua; color: blueviolet;"> Mi sitio wed</h1>
+        </header>
+        <footer>
+            <p> Este es mi pie de pagina</p>
+        </footer>
+    </body>
+
+    </html>
+         
+
